@@ -1,7 +1,7 @@
 # 퀴즈 공장 (Quiz Factory)
 - 프로젝트 기간: 2025/6/26 ~ 
 
-# **⚙️** 설치 및 실행 방법
+## **⚙️** 설치 및 실행 방법
 
 ## Backend (Python - SpringBoot)
 
