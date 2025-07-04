@@ -36,40 +36,6 @@ source venv/bin/activate
 
 requirements.txt 파일을 통해 필요 패키지를 한 번에 설치합니다.
 
-```
-# requirements.txt
-
-# Web Framework
-fastapi
-uvicorn[standard]
-
-# RAG & LLM Core (LangChain)
-langchain
-langchain-community
-langchain-google-genai
-langchain-huggingface
-langchain-text-splitters
-
-# Embedding
-sentence-transformers
-
-# VectorDB
-chromadb
-
-# NLP & Utilities
-konlpy
-python-dotenv
-pydantic-settings
-filelock
-
-# Deep Learning Framework (for HuggingFace Embeddings)
-torch
-
-# Web Crawling & RDB
-bs4
-oracledb
-```
-
 ```powershell
 # 설치 명령어
 pip install -r requirements.txt
